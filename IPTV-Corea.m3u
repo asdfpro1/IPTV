@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1 group-title="Korea",KNN-SBS
+http://211.220.195.200:1935/live/mp4:KnnTv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",가요TV
+http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
+#EXTINF:-1 group-title="Korea",i-Net
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd263/playlist.m3u8
+#EXTINF:-1 group-title="Korea",boomTV
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld1066/playlist.m3u8
+#EXTINF:-1 group-title="Korea",K-POPTV
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld1166/playlist.m3u8
+#EXTINF:-1 group-title="Korea",eventTV
+http://edge2.everyon.tv/etv2sb/phd389/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ETN
+http://edge2.everyon.tv/etv2sb/phd2/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CMC
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
+#EXTINF:-1 group-title="Korea",환경티비
+http://main1.everyon.tv:1935/etv1/_definst_/pld195/playlist.m3u8
+#EXTINF:-1 group-title="Korea",채널A
+http://main1.everyon.tv:1935/etv1/_definst_/phd251/playlist.m3u8
+#EXTINF:-1 group-title="Korea",채널Aplus
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1076/playlist.m3u8
+#EXTINF:-1 group-title="Korea",TRENDY
+http://123.108.164.71/etv2sb/phd4/playlist.m3u8
+#EXTINF:-1 group-title="Korea",FSTV
+http://edge2.everyon.tv/etv2/phd12/playlist.m3u8
+#EXTINF:-1 group-title="Korea",FISHING
+http://edge1.everyon.tv/etv1/phd269/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KTVSD
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 group-title="Korea",YTN뉴스
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u
+#EXTINF:-1 group-title="Korea",연합뉴스
+http://main2.everyon.tv:1935/etv2/_definst_/phd133/playlist.m3u8
+#EXTINF:-1 group-title="Korea",TV조선
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",TVN
+http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u
+#EXTINF:-1 group-title="Korea",TVN오락
+http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KBSworld
+http://118.97.183.222:1935/discover/kbs/playlist.m3u
+#EXTINF:-1 group-title="Korea",조선평양 OFFLINE
+rtsp://121.167.43.161/chosun
+#EXTINF:-1 group-title="Korea",프리미엄영화
+http://edge2.everyon.tv/etv2sb/phd743/playlist.m3u8
+#EXTINF:-1 group-title="Korea",월메이드영화
+http://edge2.everyon.tv/etv2sb/phd770/playlist.m3u8
+#EXTINF:-1 group-title="Korea",드라마재방송
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 group-title="Korea",에브리싱영화
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld129/playlist.m3u8
+#EXTINF:-1 group-title="Korea",더무비
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd8/playlist.m3u8
+#EXTINF:-1 group-title="Korea",MBN
+http://main1.everyon.tv:1935/etv1/_definst_/pld17/playlist.m3u8
+#EXTINF:-1 group-title="Korea",리빙TV
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld13/playlist.m3u8
+#EXTINF:-1 group-title="Korea",텔레노벨라영화
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld319/playlist.m3u8
+#EXTINF:-1 group-title="Korea",리얼TV
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld1065/playlist.m3u8
+#EXTINF:-1 group-title="Korea",법률방송
+http://main1.everyon.tv:1935/etv1/_definst_/pld33/playlist.m3u8
+#EXTINF:-1 group-title="Korea",쿠키건강TV
+http://main2.everyon.tv:1935/etv2/_definst_/pld24/playlist.m3u8
+#EXTINF:-1 group-title="Korea",씨네폭스
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd898/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CHING
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld7/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CHINGm
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld783/playlist.m3u8
+#EXTINF:-1 group-title="Korea",어린이TV
+http://edge1.everyon.tv/etv1sb/phd5/playlist.m3u8
+#EXTINF:-1 group-title="Korea",펀티비
+http://main1.everyon.tv:1935/etv1/_definst_/phd71/playlist.m3u8
+#EXTINF:-1 group-title="Korea",매일경제
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld563/playlist.m3u8
+#EXTINF:-1 group-title="Korea",국립공원방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd851/playlist.m3u8
+#EXTINF:-1 group-title="Korea",대한체육회
+http://main1.everyon.tv:1935/etv1/_definst_/phd1020/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ont티비
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd30/playlist.m3u8
+#EXTINF:-1 group-title="Korea",car특쇼
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd409/playlist.m3u8
+#EXTINF:-1 group-title="Korea",먹거리엑스파일
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd435/playlist.m3u8
+#EXTINF:-1 group-title="Korea",롯데홈쇼핑
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld707/playlist.m3u8
+#EXTINF:-1 group-title="Korea",푸드티비
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld1015/playlist.m3u8
+#EXTINF:-1 group-title="Korea",국회방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld401/playlist.m3u8
+#EXTINF:-1 group-title="Korea",온복책방송
+http://main1.everyon.tv:1935/etv1/_definst_/pld549/playlist.m3u8
+#EXTINF:-1 group-title="Korea",경북방송
+http://main1.everyon.tv:1935/etv1/_definst_/pld778/playlist.m3u8
+#EXTINF:-1 group-title="Korea",금호방송
+http://main1.everyon.tv:1935/etv1/_definst_/pld782/playlist.m3u8
+#EXTINF:-1 group-title="Korea",부산방송
+http://main2.everyon.tv:1935/etv2/_definst_/pld951/playlist.m3u8
+#EXTINF:-1 group-title="Korea",에이핑크
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd984/playlist.m3u8
+#EXTINF:-1 group-title="Korea",효니티비
+http://main1.everyon.tv:1935/etv1/_definst_/phd1022/playlist.m3u8
+#EXTINF:-1 group-title="Korea",G티비
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd44/playlist.m3u8
+#EXTINF:-1 group-title="Korea",트렌디티비
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd4/playlist.m3u8
+#EXTINF:-1 group-title="Korea",런웨이티비
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd753/playlist.m3u8
+#EXTINF:-1 group-title="Korea",트렌디m
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd784/playlist.m3u8
+#EXTINF:-1 group-title="Korea",kidsTV
+http://main2.everyon.tv:1935/etv2/_definst_/phd1043/playlist.m3u8
+#EXTINF:-1 group-title="Korea",대교어린이TV
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd5/playlist.m3u8
+#EXTINF:-1 group-title="Korea",아르떼TV
+http://main1.everyon.tv:1935/etv1/_definst_/phd35/playlist.m3u8
+#EXTINF:-1 group-title="Korea",홈스토리
+http://main1.everyon.tv:1935/etv1/_definst_/phd1016/playlist.m3u8
+#EXTINF:-1 group-title="Korea",한국여론방송
+http://main2.everyon.tv:1935/etv2/_definst_/phd983/playlist.m3u8
+#EXTINF:-1 group-title="Korea",케이워더날씨
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd581/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ytn웨더
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd193/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ytn사이언스
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd863/playlist.m3u8
+#EXTINF:-1 group-title="Korea",국방방송
+http://main1.everyon.tv:1935/etv1/_definst_/phd31/playlist.m3u8
+#EXTINF:-1 group-title="Korea",부산
+http://main2.everyon.tv:1935/etv2/_definst_/phd951/playlist.m3u8
+#EXTINF:-1 group-title="Korea",충북
+http://main1.everyon.tv:1935/etv1/_definst_/phd853/playlist.m3u8
+#EXTINF:-1 group-title="Korea",서초
+http://main1.everyon.tv:1935/etv1/_definst_/phd745/playlist.m3u8
+#EXTINF:-1 group-title="Korea",상생방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd38/playlist.m3u8
+#EXTINF:-1 group-title="Korea",원주itv
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd755/playlist.m3u8
+#EXTINF:-1 group-title="Korea",폴라리스
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd14/playlist.m3u8
+#EXTINF:-1 group-title="Korea",티비is
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd551/playlist.m3u8
+#EXTINF:-1 group-title="Korea",시타임
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd21/playlist.m3u8
+#EXTINF:-1 group-title="Korea",소비자티비
+http://main2.everyon.tv:1935/etv2/_definst_/phd77/playlist.m3u8
+#EXTINF:-1 group-title="Korea",TBS
+http://edge2.everyon.tv/etv2sb/phd40/playlist.m3u8
+#EXTINF:-1 group-title="Korea",한국승마TV
+http://main1.everyon.tv:1935/etv1/_definst_/phd842/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ESTEEM연예
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd315/playlist.m3u8
+#EXTINF:-1 group-title="Korea",NTD탕티비
+http://main2.everyon.tv:1935/etv2/_definst_/phd926/playlist.m3u8
+#EXTINF:-1 group-title="Korea",레스피코리아
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd1053/playlist.m3u8
+#EXTINF:-1 group-title="Korea",내서녈리그
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd861/playlist.m3u8
+#EXTINF:-1 group-title="Korea",엣지TV
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd849/playlist.m3u8
+#EXTINF:-1 group-title="Korea",사회안전방송
+http://main2.everyon.tv:1935/etv2/_definst_/phd109/playlist.m3u8
+#EXTINF:-1 group-title="Korea",is스포츠
+http://main1.everyon.tv:1935/etv1/_definst_/phd969/playlist.m3u8
+#EXTINF:-1 group-title="Korea",당구TV
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd191/playlist.m3u8
+#EXTINF:-1 group-title="Korea",노컷V
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd747/playlist.m3u8
+#EXTINF:-1 group-title="Korea",내외경제
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld639/playlist.m3u8
+#EXTINF:-1 group-title="Korea",서울경제
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld22/playlist.m3u8
+#EXTINF:-1 group-title="Korea",RTN부동산경제
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld19/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ONTm
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld884/playlist.m3u8
+#EXTINF:-1 group-title="Korea",ONT
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld30/playlist.m3u8
+#EXTINF:-1 group-title="Korea",STN
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld852/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KTV국민방송
+http://main1.everyon.tv:1935/etv1/_definst_/phd393/playlist.m3u8
+#EXTINF:-1 group-title="Korea",amc채널
+http://main2.everyon.tv:1935/etv2/_definst_/phd873/playlist.m3u8
+#EXTINF:-1 group-title="Korea",기독교복음방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/phd29/playlist.m3u8
+#EXTINF:-1 group-title="Korea",BBC불교
+http://main1.everyon.tv:1935/etv1/_definst_/phd553/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CTS기독교
+http://main1.everyon.tv:1935/etv1/_definst_/phd28/playlist.m3u8
+#EXTINF:-1 group-title="Korea",C교회
+http://main1.everyon.tv:1935/etv1/_definst_/phd335/playlist.m3u8
+#EXTINF:-1 group-title="Korea",MTN티비
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd18/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KCTV광주
+http://main1.everyon.tv:1935/etv1/_definst_/phd555/playlist.m3u8
+#EXTINF:-1 group-title="Korea",폴라리스
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld14/playlist.m3u8
+#EXTINF:-1 group-title="Korea",헬스메디TV
+http://main1.everyon.tv:1935/etv1/_definst_/pld1094/playlist.m3u8
+#EXTINF:-1 group-title="Korea",육아방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld42/playlist.m3u8
+#EXTINF:-1 group-title="Korea",상생방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld38/playlist.m3u8
+#EXTINF:-1 group-title="Korea",당구
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/pld191/playlist.m3u8
+#EXTINF:-1 group-title="Korea",원음방송
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld1173/playlist.m3u8
+#EXTINF:-1 group-title="Korea",GoodTV
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld29/playlist.m3u8
+#EXTINF:-1 group-title="Korea",BTN불교
+http://main2.everyon.tv:1935/etv2/_definst_/pld34/playlist.m3u8
+#EXTINF:-1 group-title="Korea",GMB교회
+http://main1.everyon.tv:1935/etv1/_definst_/pld275/playlist.m3u8
+#EXTINF:-1 group-title="Korea",한우리교회
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld897/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CBS교회
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld27/playlist.m3u8
+#EXTINF:-1 group-title="Korea",국방TV
+http://main1.everyon.tv:1935/etv1/_definst_/pld31/playlist.m3u8
+#EXTINF:-1 group-title="Korea",KBS독도
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CBS교회
+rtmp://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream
+#EXTINF:-1 group-title="Korea",KBSworld
+http://118.97.183.222:1935/discover/kbs/playlist.m3u8
+#EXTINF:-1 group-title="Korea",CBS교회
+rtmp://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream
