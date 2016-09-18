@@ -133,8 +133,10 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="baby_tv_lam.png" group-title="Infantil y Anime",Baby TV España
 http://81.40.240.186:4022/udp/239.0.0.113:8208
 # http://freedom.duki.me/LIVE/H04/baby_tv/master.m3u8
-#EXTINF:-1 tvg-logo="tve_clan_es.png" group-title="Infantil y Anime",Clan TVE
+#EXTINF:-1 tvg-logo="tve_clan_es.png" group-title="Infantil y Anime",Clan TVE España
 http://81.40.240.186:4022/udp/239.0.0.80:8208
+#EXTINF:-1 tvg-logo="neox_es.png" group-title="Infantil y Anime",Neox España
+http://81.40.240.186:4022/udp/239.0.0.107:8208
 # http://freedom.duki.me/LIVE/H04/tve_clan_spain/master.m3u8
 # #EXTINF:-1 tvg-logo="disney_channel_global.png" group-title="Infantil y Anime",Disney Channel USA
 # http://freedom.duki.me/LIVE/H04/disney_usa_hd/master.m3u8
