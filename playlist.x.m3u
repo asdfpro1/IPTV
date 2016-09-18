@@ -460,6 +460,10 @@ http://79.148.51.211:4022/udp/239.0.0.106:8208
 #EXTINF:-1 tvg-logo="mega_es.png" group-title="Cultura y religión",MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 # http://81.40.240.186:4022/udp/239.0.3.31:8208
+#EXTINF:-1 tvg-logo="travel_tve_es.png" group-title="Cultura y religión",Travel TV HD
+rtmp://194.179.53.124:1935/live/myStream_2
+# rtmp://87.106.219.140/live/myStream_2
+# http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
 # #EXTINF:-1 tvg-logo="discovery_us.png" group-title="Cultura y religión",Discovery Channel
 # http://freedom.duki.me/LIVE/H04/discovery_channel_esp/master.m3u8
 #EXTINF:-1 tvg-logo="discovery_us.png" group-title="Cultura y religión",Discovery Channel España
