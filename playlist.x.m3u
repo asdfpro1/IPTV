@@ -177,8 +177,6 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 http://81.39.224.194:4022/udp/239.0.0.8:8208
 #EXTINF:-1 tvg-logo="tnt_lam.png" group-title="Cine y Series",TNT España
 http://81.39.224.194:4022/udp/239.0.0.44:8208
-#EXTINF:-1 tvg-logo="tnt_lam.png" group-title="Cine y Series",TNT HD España
-http://81.39.224.194:4022/udp/239.0.5.87:8208
 #EXTINF:-1 tvg-logo="ae_lam_hd.png" group-title="Cine y Series" tvg-shift="-5",A&E HD
 http://190.57.234.166/V4/6/1.m3u8
 #EXTINF:-1 tvg-logo="ae_lam.png" group-title="Cine y Series",A&E España
@@ -223,6 +221,14 @@ http://81.39.224.194:4022/udp/239.0.0.102:8208
 http://81.39.224.194:4022/udp/239.0.0.108:8208
 #EXTINF:-1 tvg-logo="movistar_accion_es.png" group-title="Cine y Series",Movistar Acción
 http://81.39.224.194:4022/udp/239.0.3.42:8208
+#EXTINF:-1 tvg-logo="movistar_xtra_es.png" group-title="Cine y Series",Movistar Xtra España
+http://81.39.224.194:4022/udp/239.0.3.41:8208
+#EXTINF:-1 tvg-logo="movistar_dcine_es.png" group-title="Cine y Series",Movistar DCine España
+http://81.39.224.194:4022/udp/239.0.3.44:8208
+#EXTINF:-1 tvg-logo="movistar_cine_espanol_es.png" group-title="Cine y Series",Movistar Cine Español España
+http://81.39.224.194:4022/udp/239.0.3.45:8208
+#EXTINF:-1 tvg-logo="movistar_estrenos_es.png" group-title="Cine y Series",Movistar Estrenos España
+http://81.39.224.194:4022/udp/239.0.3.40:8208
 #EXTINF:-1 tvg-logo="movistar_comedia_es.png" group-title="Cine y Series",Movistar Comedia
 http://81.39.224.194:4022/udp/239.0.3.43:8208
 #EXTINF:-1 tvg-logo="movistar_series_es.png" group-title="Cine y Series",Movistar Series España
@@ -233,14 +239,6 @@ http://81.39.224.194:4022/udp/239.0.3.32:8208
 http://81.39.224.194:4022/udp/239.0.5.4:8208
 #EXTINF:-1 tvg-logo="movistar_series_xtra_es.png" group-title="Cine y Series",Movistar Series Xtra
 http://81.39.224.194:4022/udp/239.0.3.20:8208
-#EXTINF:-1 tvg-logo="movistar_xtra_es.png" group-title="Cine y Series",Movistar Xtra España
-http://81.39.224.194:4022/udp/239.0.3.41:8208
-#EXTINF:-1 tvg-logo="movistar_dcine_es.png" group-title="Cine y Series",Movistar DCine España
-http://81.39.224.194:4022/udp/239.0.3.44:8208
-#EXTINF:-1 tvg-logo="movistar_cine_espanol_es.png" group-title="Cine y Series",Movistar Cine Español España
-http://81.39.224.194:4022/udp/239.0.3.45:8208
-#EXTINF:-1 tvg-logo="movistar_estrenos_es.png" group-title="Cine y Series",Movistar Estrenos España
-http://81.39.224.194:4022/udp/239.0.3.40:8208
 # ----------------------------------------------------------------------------------------------
 # ENTRETENIMIENTO
 # ----------------------------------------------------------------------------------------------
