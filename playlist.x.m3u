@@ -310,8 +310,6 @@ http://81.39.224.194:4022/udp/239.0.0.57:8208
 http://81.39.224.194:4022/udp/239.0.0.32:8208
 #EXTINF:-1 tvg-logo="odisea_es.png" group-title="Cultura y religión",Odisea
 http://81.39.224.194:4022/udp/239.0.0.22:8208
-#EXTINF:-1 tvg-logo="antena_nova_es.png" group-title="Cultura y religión",NOVA
-http://81.39.224.194:4022/udp/239.0.0.106:8208
 #EXTINF:-1 tvg-logo="mega_es.png" group-title="Cultura y religión",MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-logo="travel_tve_es.png" group-title="Cultura y religión",Travel TVE
@@ -350,9 +348,9 @@ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 http://190.57.234.166/V0/7/1.m3u8
 #EXTINF:-1 tvg-logo="investigation_discovery_us.png" group-title="Cultura y religión",Investigation Discovery
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?/PROFILE00-801/.ts
-#EXTINF:-1 tvg-logo="discovery_español_mx.png" group-title="Cultura y religión",Discovery Channel Mexico
+#EXTINF:-1 tvg-logo="discovery_espanol_mx.png" group-title="Cultura y religión",Discovery Channel Mexico
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="tec_tv_ar.png" group-title="Cultura y religión",TecTV
+#EXTINF:-1 tvg-logo="tec_tv_ar.png" group-title="Cultura y religión",TEC TV
 http://190.57.234.166/V2/4/1.m3u8
 #EXTINF:-1 tvg-logo="deutsche_welle_lam.png" group-title="Cultura y religión",DW Latinoamerica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
