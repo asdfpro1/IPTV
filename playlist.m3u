@@ -81,17 +81,17 @@ http://190.57.234.166/V1/2/1.m3u8
 #EXTINF:-1 tvg-logo="disney_junior_us.png" group-title="Infantil y Anime" tvg-shift="-5",Disney Junior
 http://190.57.234.166/V4/1/1.m3u8
 #EXTINF:-1 tvg-logo="disney_junior_us.png" group-title="Infantil y Anime",Disney Junior España
-http://81.40.240.186:4022/udp/239.0.0.10:8208
+http://81.39.224.194:4022/udp/239.0.0.10:8208
 #EXTINF:-1 tvg-logo="nickelodeon_us.png" group-title="Infantil y Anime" tvg-shift="-5",Nick
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="nickelodeon_us.png" group-title="Infantil y Anime",Nick España
-http://81.40.240.186:4022/udp/239.0.0.69:8208
+http://81.39.224.194:4022/udp/239.0.0.69:8208
 #EXTINF:-1 tvg-logo="nick_2_us.png" group-title="Infantil y Anime" tvg-shift="-5",nick 2 HD
 http://190.57.234.166/V3/3/1.m3u8
 #EXTINF:-1 tvg-logo="nick_jr_us.png" group-title="Infantil y Anime" tvg-shift="-5",Nick Jr
 http://190.57.234.166/V1/8/1.m3u8
 #EXTINF:-1 tvg-logo="nick_jr_us.png" group-title="Infantil y Anime",Nick Jr España
-http://81.40.240.186:4022/udp/239.0.0.115:8208
+http://81.39.224.194:4022/udp/239.0.0.115:8208
 #EXTINF:-1 tvg-logo="nick_toons_lam.png" group-title="Infantil y Anime" tvg-shift="-5",Nick Toons
 http://190.57.234.166/V1/7/1.m3u8
 #EXTINF:-1 tvg-logo="boomerang_global.png" group-title="Infantil y Anime" tvg-shift="-5",Boomerang
@@ -103,19 +103,19 @@ http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="disney_channel_global.png" group-title="Infantil y Anime" tvg-shift="-5",Disney Channel
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="disney_channel_global.png" group-title="Infantil y Anime",Disney Channel España
-http://81.40.240.186:4022/udp/239.0.0.64:8208
+http://81.39.224.194:4022/udp/239.0.0.64:8208
 #EXTINF:-1 tvg-logo="disney_xd_us.png" group-title="Infantil y Anime" tvg-shift="-5",Disney XD
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="disney_xd_us.png" group-title="Infantil y Anime",Disney XD España
-http://81.40.240.186:4022/udp/239.0.0.11:8208
+http://81.39.224.194:4022/udp/239.0.0.11:8208
 #EXTINF:-1 tvg-logo="tiin_lam.png" group-title="Infantil y Anime" tvg-shift="-5",TIIN
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="tooncast.png" group-title="Infantil y Anime" tvg-shift="-5",tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="baby_tv_lam.png" group-title="Infantil y Anime",Baby TV España
-http://81.40.240.186:4022/udp/239.0.0.113:8208
+http://81.39.224.194:4022/udp/239.0.0.113:8208
 #EXTINF:-1 tvg-logo="tve_clan_es.png" group-title="Infantil y Anime",Clan TVE España
-http://81.40.240.186:4022/udp/239.0.0.80:8208
+http://81.39.224.194:4022/udp/239.0.0.80:8208
 #EXTINF:-1 tvg-logo="baby_tv_lam.png" group-title="Infantil y Anime",Baby TV USA
 http://77.120.118.233:8000/4
 # ----------------------------------------------------------------------------------------------
@@ -150,9 +150,7 @@ http://live.tvplayerlatino.com/lista_remota/src5/rvTcm.m3u8
 #EXTINF:-1 tvg-logo="fox_classics_lam.png" group-title="Cine y Series" tvg-shift="-5",FOX Classics
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="fox_global.png" group-title="Cine y Series",FOX España
-http://81.40.240.186:4022/udp/239.0.0.74:8208
-#EXTINF:-1 tvg-logo="fox_global.png" group-title="Cine y Series",FOX HD España
-http://81.40.240.186:4022/udp/239.0.9.134:8208
+http://81.39.224.194:4022/udp/239.0.0.74:8208
 #EXTINF:-1 tvg-logo="golden_edge_mx.png" group-title="Cine y Series" tvg-shift="-5",Golden Edge
 http://live.tvplayerlatino.com/lista_remota/src5/QfuWa.m3u8
 #EXTINF:-1 tvg-logo="golden_mx_hd.png" group-title="Cine y Series" tvg-shift="-5",Golden SD
@@ -176,21 +174,21 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="amc_global.png" group-title="Cine y Series" tvg-shift="-5",AMC HD
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="amc_global.png" group-title="Cine y Series",AMC España
-http://81.40.240.186:4022/udp/239.0.0.8:8208
+http://81.39.224.194:4022/udp/239.0.0.8:8208
 #EXTINF:-1 tvg-logo="tnt_lam.png" group-title="Cine y Series",TNT España
-http://81.40.240.186:4022/udp/239.0.0.44:8208
+http://81.39.224.194:4022/udp/239.0.0.44:8208
 #EXTINF:-1 tvg-logo="tnt_lam.png" group-title="Cine y Series",TNT HD España
-http://81.40.240.186:4022/udp/239.0.5.87:8208
+http://81.39.224.194:4022/udp/239.0.5.87:8208
 #EXTINF:-1 tvg-logo="ae_lam_hd.png" group-title="Cine y Series" tvg-shift="-5",A&E HD
 http://190.57.234.166/V4/6/1.m3u8
 #EXTINF:-1 tvg-logo="ae_lam.png" group-title="Cine y Series",A&E España
-http://81.40.240.186:4022/udp/239.0.0.38:8208
+http://81.39.224.194:4022/udp/239.0.0.38:8208
 #EXTINF:-1 tvg-logo="axn_global_hd.png" group-title="Cine y Series" tvg-shift="-5",AXN HD
 http://190.57.234.166/V5/2/1.m3u8
 #EXTINF:-1 tvg-logo="axn_global.png" group-title="Cine y Series",AXN España
-http://81.40.240.186:4022/udp/239.0.0.14:8208
+http://81.39.224.194:4022/udp/239.0.0.14:8208
 #EXTINF:-1 tvg-logo="axn_white_es.png" group-title="Cine y Series",AXN White España
-http://81.40.240.186:4022/udp/239.0.0.62:8208
+http://81.39.224.194:4022/udp/239.0.0.62:8208
 #EXTINF:-1 tvg-logo="universal_channel_global.png" group-title="Cine y Series" tvg-shift="-5",Universal Channel SD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="universal_channel_global.png" group-title="Cine y Series" tvg-shift="-5",Universal Channel HD
@@ -202,47 +200,67 @@ http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-shift="-3" tvg-logo="syfy_us_global.png" group-title="Cine y Series" tvg-shift="-5",SyFy
 http://190.57.234.166/V4/2/1.m3u8
 #EXTINF:-1 tvg-shift="-3" tvg-logo="syfy_us_global.png" group-title="Cine y Series",SyFy España
-http://81.40.240.186:4022/udp/239.0.0.111:8208
+http://81.39.224.194:4022/udp/239.0.0.111:8208
 #EXTINF:-1 tvg-logo="paramount_channel_es.png" group-title="Cine y Series",Paramount Channel España
 http://live-hls.paramount.stream.flumotion.com/paramount/live-multi/main.m3u8
 #EXTINF:-1 tvg-logo="tcm_lam.png" group-title="Cine y Series" tvg-shift="-5",TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="turner_classic_movies_us.png" group-title="Cine y Series",TCM España
-http://81.40.240.186:4022/udp/239.0.6.5:8208
+http://81.39.224.194:4022/udp/239.0.6.5:8208
 #EXTINF:-1 tvg-logo="calle13_universal.png" group-title="Cine y Series",Calle 13
-http://81.40.240.186:4022/udp/239.0.0.13:8208
+http://81.39.224.194:4022/udp/239.0.0.13:8208
 #EXTINF:-1 tvg-logo="showtime_us.png" group-title="Cine y Series",Showtime
 http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="bigpond_movies_au.png" group-title="Cine y Series",Bigpond Movies
 mmsh://cht-cdn220-is-3.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high
 #EXTINF:-1 tvg-logo="az_cinema_mx.png" group-title="Cine y Series" tvg-shift="-5",Az Cinema
 http://live.tvplayerlatino.com/lista_remota/src5/LxGvm.m3u8
-#EXTINF:-1 tvg-logo="cero_es.png" group-title="Cine y Series",Cero España
-http://81.40.240.186:4022/udp/239.0.0.108:8208
+#EXTINF:-1 tvg-logo="canal_hollywood_es.png" group-title="Cine y Series",Hollywood España
+http://81.39.224.194:4022/udp/239.0.0.16:8208
+#EXTINF:-1 tvg-logo="sundance_tv_us.png" group-title="Cine y Series",Sundance España
+http://81.39.224.194:4022/udp/239.0.0.102:8208
+#EXTINF:-1 tvg-logo="cero_es.png" group-title="Cine y Series",#0 España
+http://81.39.224.194:4022/udp/239.0.0.108:8208
+#EXTINF:-1 tvg-logo="movistar_accion_es.png" group-title="Cine y Series",Movistar Acción
+http://81.39.224.194:4022/udp/239.0.3.42:8208
+#EXTINF:-1 tvg-logo="movistar_comedia_es.png" group-title="Cine y Series",Movistar Comedia
+http://81.39.224.194:4022/udp/239.0.3.43:8208
 #EXTINF:-1 tvg-logo="movistar_series_es.png" group-title="Cine y Series",Movistar Series España
-http://81.40.240.186:4022/udp/239.0.3.32:8208
+http://81.39.224.194:4022/udp/239.0.0.184:8208
+#EXTINF:-1 tvg-logo="movistar_series_es.png" group-title="Cine y Series",Movistar Series España
+http://81.39.224.194:4022/udp/239.0.3.32:8208
+#EXTINF:-1 tvg-logo="movistar_series_es.png" group-title="Cine y Series",Movistar Series España
+http://81.39.224.194:4022/udp/239.0.5.4:8208
+#EXTINF:-1 tvg-logo="movistar_series_xtra_es.png" group-title="Cine y Series",Movistar Series Xtra
+http://81.39.224.194:4022/udp/239.0.3.20:8208
+#EXTINF:-1 tvg-logo="movistar_xtra_es.png" group-title="Cine y Series",Movistar Xtra España
+http://81.39.224.194:4022/udp/239.0.3.41:8208
 #EXTINF:-1 tvg-logo="movistar_dcine_es.png" group-title="Cine y Series",Movistar DCine España
-http://81.40.240.186:4022/udp/239.0.3.30:8208
+http://81.39.224.194:4022/udp/239.0.3.44:8208
+#EXTINF:-1 tvg-logo="movistar_cine_espanol_es.png" group-title="Cine y Series",Movistar Cine Español España
+http://81.39.224.194:4022/udp/239.0.3.45:8208
+#EXTINF:-1 tvg-logo="movistar_estrenos_es.png" group-title="Cine y Series",Movistar Estrenos España
+http://81.39.224.194:4022/udp/239.0.3.40:8208
 # ----------------------------------------------------------------------------------------------
 # ENTRETENIMIENTO
 # ----------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="movistar_plus_es.png" group-title="Entretenimiento",Movistar+ España
-http://81.40.240.186:4022/udp/239.0.0.77:8208
+http://81.39.224.194:4022/udp/239.0.0.77:8208
 #EXTINF:-1 tvg-logo="totalplay_mx.png" group-title="Entretenimiento",TotalPlay
 http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="nova_es.png" group-title="Entretenimiento",Nova España
-http://81.40.240.186:4022/udp/239.0.0.106:8208
+http://81.39.224.194:4022/udp/239.0.0.106:8208
 #EXTINF:-1 tvg-logo="neox_es.png" group-title="Infantil y Anime",Neox España
-http://81.40.240.186:4022/udp/239.0.0.107:8208
+http://81.39.224.194:4022/udp/239.0.0.107:8208
 #EXTINF:-1 tvg-logo="mundo_fox_lam.png" group-title="Entretenimiento",Mundo Fox
 http://190.57.234.166/V0/3/1.m3u8
 #EXTINF:-1 tvg-logo="fox_life_global.png" group-title="Entretenimiento",FOX Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?/PROFILE00-801/.ts
 # http://freedom.duki.me/LIVE/H04/fox_life/master.m3u8
 #EXTINF:-1 tvg-logo="fox_life_global.png" group-title="Entretenimiento",FOX Life España
-http://81.40.240.186:4022/udp/239.0.0.112:8208
+http://81.39.224.194:4022/udp/239.0.0.112:8208
 #EXTINF:-1 tvg-logo="cosmopolitan_tv_es_hd.png" group-title="Entretenimiento",Cosmo España
-http://81.40.240.186:4022/udp/239.0.0.15:8208
+http://81.39.224.194:4022/udp/239.0.0.15:8208
 #EXTINF:-1 tvg-logo="tbs_lam.png" group-title="Entretenimiento",TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="e_global_us.png" group-title="Entretenimiento",E! Entertainment Television
@@ -254,7 +272,7 @@ http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="comedy_central_us_hd.png" group-title="Entretenimiento",Comedy Central HD
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="comedy_central_us.png" group-title="Entretenimiento",Comedy Central España
-http://81.40.240.186:4022/udp/239.0.0.68:8208
+http://81.39.224.194:4022/udp/239.0.0.68:8208
 #EXTINF:-1 tvg-logo="comedy_central_us.png" group-title="Entretenimiento",Comedy Central UK
 http://78.56.221.9:7059/comedy
 #EXTINF:-1 tvg-logo="tru_tv_lam.png" group-title="Entretenimiento",TruTV
@@ -288,12 +306,14 @@ http://200.76.77.237/LIVE/H01/CANAL276/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 # ----------------------------------------------------------------------------------------------
 # CULTURA Y RELIGION
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="crime_and_investigation_global.png" group-title="Cultura y religión",Crimen e Investigacion
+http://81.39.224.194:4022/udp/239.0.0.57:8208
 #EXTINF:-1 tvg-logo="dmax_es.png" group-title="Cultura y religión",DMAX España
-http://81.40.240.186:4022/udp/239.0.0.32:8208
+http://81.39.224.194:4022/udp/239.0.0.32:8208
 #EXTINF:-1 tvg-logo="odisea_es.png" group-title="Cultura y religión",Odisea
-http://81.40.240.186:4022/udp/239.0.0.22:8208
+http://81.39.224.194:4022/udp/239.0.0.22:8208
 #EXTINF:-1 tvg-logo="antena_nova_es.png" group-title="Cultura y religión",NOVA
-http://79.148.51.211:4022/udp/239.0.0.106:8208
+http://81.39.224.194:4022/udp/239.0.0.106:8208
 #EXTINF:-1 tvg-logo="mega_es.png" group-title="Cultura y religión",MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-logo="travel_tve_es.png" group-title="Cultura y religión",Travel TVE
@@ -301,19 +321,19 @@ http://87.106.219.140:1935/live/myStream_2/playlist.m3u8
 # #EXTINF:-1 tvg-logo="discovery_us.png" group-title="Cultura y religión",Discovery Channel
 # http://freedom.duki.me/LIVE/H04/discovery_channel_esp/master.m3u8
 #EXTINF:-1 tvg-logo="discovery_us.png" group-title="Cultura y religión",Discovery Channel España
-http://81.40.240.186:4022/udp/239.0.0.21:8208
+http://81.39.224.194:4022/udp/239.0.0.21:8208
 # #EXTINF:-1 tvg-logo="nat_geo_us.png" group-title="Cultura y religión",National Geographic
 # http://freedom.duki.me/LIVE/H04/national_geographic/master.m3u8
 #EXTINF:-1 tvg-logo="nat_geo_us.png" group-title="Cultura y religión",National Geographic España
-http://81.40.240.186:4022/udp/239.0.0.103:8208
+http://81.39.224.194:4022/udp/239.0.0.103:8208
 #EXTINF:-1 tvg-logo="nat_geo_wild_us.png" group-title="Cultura y religión",Nat Geo Wild España
-http://81.40.240.186:4022/udp/239.0.0.89:8208
+http://81.39.224.194:4022/udp/239.0.0.89:8208
 # #EXTINF:-1 tvg-logo="history_lam.png" group-title="Cultura y religión",History
 # http://freedom.duki.me/LIVE/H04/history_channel_english/master.m3u8
 #EXTINF:-1 tvg-logo="history_lam_hd.png" group-title="Cultura y religión",History HD
 http://190.57.234.166/V4/3/1.m3u8
 #EXTINF:-1 tvg-logo="historia_es.png" group-title="Cultura y religión",Historia
-http://81.40.240.186:4022/udp/239.0.0.19:8208
+http://81.39.224.194:4022/udp/239.0.0.19:8208
 # #EXTINF:-1 tvg-logo="history_2_lam.png" group-title="Cultura y religión",H2
 # http://freedom.duki.me/LIVE/H02/H2LASD/master.m3u8
 #EXTINF:-1 tvg-logo="discovery_hd_theater_lam.png" group-title="Cultura y religión",Discovery Theater HD
@@ -392,23 +412,25 @@ http://190.57.234.166/V2/7/1.m3u8
 #EXTINF:-1 tvg-logo="tpa_ar.png" group-title="Internacional en Español",Television Publica Argentina
 http://190.57.234.166/V2/1/1.m3u8
 #EXTINF:-1 tvg-logo="tve_la1_es.png" group-title="Internacional en Español",La 1 TVE
-http://81.40.240.186:4022/udp/239.0.0.76:8208
+http://81.39.224.194:4022/udp/239.0.0.76:8208
 #EXTINF:-1 tvg-logo="tve_la2_es.png" group-title="Internacional en Español",La 2 TVE
-http://81.40.240.186:4022/udp/239.0.0.2:8208
+http://81.39.224.194:4022/udp/239.0.0.2:8208
+#EXTINF:-1 tvg-logo="antena3.png" group-title="Internacional en Español",Antena 3
+http://81.39.224.194:4022/udp/239.0.0.3:8208
 #EXTINF:-1 tvg-logo="antena3.png" group-title="Internacional en Español",Antena 3 Stream
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-logo="antena3.png" group-title="Internacional en Español",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="cuatro_es.png" group-title="Internacional en Español",Cuatro
-http://81.40.240.186:4022/udp/239.0.0.4:8208
+http://81.39.224.194:4022/udp/239.0.0.4:8208
 #EXTINF:-1 tvg-logo="telecinco_es.png" group-title="Internacional en Español",Telecinco
-http://81.40.240.186:4022/udp/239.0.0.5:8208
+http://81.39.224.194:4022/udp/239.0.0.5:8208
 #EXTINF:-1 tvg-logo="la_sexta_es.png" group-title="Internacional en Español",La Sexta
-http://81.40.240.186:4022/udp/239.0.0.58:8208
+http://81.39.224.194:4022/udp/239.0.0.58:8208
 #EXTINF:-1 tvg-logo="la_sexta_es_hd.png" group-title="Internacional en Español",La Sexta HD Stream
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="13_tv_es.png" group-title="Internacional en Español",13 TV
-http://81.40.240.186:4022/udp/239.0.0.91:8208
+http://81.39.224.194:4022/udp/239.0.0.91:8208
 #EXTINF:-1 tvg-logo="efekto_tv_mx.png" group-title="Internacional en Español",Efekto TV HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 #EXTINF:-1 tvg-logo="proyecto40_mx.png" group-title="Internacional en Español",Proyecto 40
@@ -446,6 +468,8 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
 # ----------------------------------------------------------------------------------------------
 # NOTICIAS
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="t13_cl.png" group-title="Noticias",Tele13
+http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 #EXTINF:-1 tvg-logo="c5n_ar.png" group-title="Noticias",C5N Noticias
 http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",RT Noticias
@@ -548,7 +572,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="radio_105_it_tv.png" group-title="Música y conciertos",Radio 105 TV m3u8
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="mtv_music_us.png" group-title="Música y conciertos",MTV Music España
-http://81.40.240.186:4022/udp/239.0.0.211:8208
+http://81.39.224.194:4022/udp/239.0.0.211:8208
 #EXTINF:-1 tvg-logo="mtv_live_hd_us.png" group-title="Música y conciertos",MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="mtv_rocks_us.png" group-title="Música y conciertos",MTV Rocks
@@ -574,7 +598,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-logo="vh1_global_hd.png" group-title="Música y conciertos",VH1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="vh1_global_hd.png" group-title="Música y conciertos",VH1 España
-http://81.40.240.186:4022/udp/239.0.0.75:8208
+http://81.39.224.194:4022/udp/239.0.0.75:8208
 #EXTINF:-1 tvg-logo="bandamax.png" group-title="Música y conciertos",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="trt_muzik_tr.png" group-title="Música y conciertos",TRT MÜZIK
@@ -634,6 +658,20 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1 tvg-logo="supersport_al.png" group-title="Deporte y juegos",Supersport 4
 http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 tvg-logo="movistar_partidazo_es.png" group-title="Deporte y juegos",Movistar Partidazo España
+http://81.39.224.194:4022/udp/239.0.4.129:8208
+#EXTINF:-1 tvg-logo="movistar_futbol_es.png" group-title="Deporte y juegos",Movistar Futbol España
+http://81.39.224.194:4022/udp/239.0.6.8:8208
+#EXTINF:-1 tvg-logo="movistar_deportes_1_es.png" group-title="Deporte y juegos",Movistar Deportes 1 España
+http://81.39.224.194:4022/udp/239.0.4.193:8208
+#EXTINF:-1 tvg-logo="movistar_deportes_2_es.png" group-title="Deporte y juegos",Movistar Deportes 2 España
+http://81.39.224.194:4022/udp/239.0.5.5:8208
+#EXTINF:-1 tvg-logo="movistar_formula_1_es.png" group-title="Deporte y juegos",Movistar F1 España
+http://81.39.224.194:4022/udp/239.0.0.210:8208
+#EXTINF:-1 tvg-logo="movistar_motogp_es.png" group-title="Deporte y juegos",Movistar MotoGP España
+http://81.39.224.194:4022/udp/239.0.3.38:8208
+#EXTINF:-1 tvg-logo="movistar_golf_es.png" group-title="Deporte y juegos",Movistar Golf España
+http://81.39.224.194:4022/udp/239.0.5.2:8208
 # ----------------------------------------------------------------------------------------------
 # INTERNACIONAL OTROS IDIOMAS
 # ----------------------------------------------------------------------------------------------
@@ -678,7 +716,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist
 # ----------------------------------------------------------------------------------------------
 # RADIO Y RADIOTV
 # ----------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="T13R_CL.png" group-title="Radio TV Nacional",Tele13 Radio TV
+#EXTINF:-1 tvg-logo="tele13_radio_cl.png" group-title="Radio TV Nacional",Tele13 Radio TV
 http://live.t13.cdnz.cl/t13radio/desktop.m3u8
 #EXTINF:-1 tvg-logo="LaClave_CL.png" group-title="Radio TV Nacional",LaClave Radio TV
 http://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/chunklist.m3u8
