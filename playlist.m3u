@@ -20,6 +20,8 @@ http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/playlist.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="chv_cl.png" group-title="Nacional",CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="chv_cl.png" group-title="Nacional",CHV HD Janus
+http://chv-ply.janus.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="mega_cl.png" group-title="Nacional",MEGA HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="la_red_cl_hd.png" group-title="Nacional",La Red HD
@@ -123,6 +125,16 @@ http://77.120.118.233:8000/4
 # ----------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="hbo_signature_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Signature
 http://190.57.234.166/V4/7/1.m3u8
+#EXTINF:-1 tvg-logo="max_prime_este.png" group-title="Cine y Series" tvg-shift="-5",MAX Prime
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=9&token=YTExODgwNjY5NGM5ZDliMTBNakF4Tmkwd09TMHlNQ0F4TVE9PQ==|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=9&view=4&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="hbo2_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO2
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=10&token=OTZhMGNjMmY5MzM2NWZhZE1qQXhOaTB3T1MweU1DQXhNUT09|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=10&view=4&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="hbo_plus_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Plus Este
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=11&token=M2U5ODQxMGM0NWVhTWpBeE5pMHdPUzB5TUNBeE1RPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=11&view=4&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="hbo_plus_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Plus Oeste
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=12&token=NGU1NTEzOWUwMTlhTWpBeE5pMHdPUzB5TUNBeE1RPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=12&view=4&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="hbo_family_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Family
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=13&token=ODk2NWY3NjYzMmQ3NjcyZU1qQXhOaTB3T1MweU1TQXhNZz09|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=13&view=4&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="cinecanal_us.png" group-title="Cine y Series" tvg-shift="-5",Cinecanal
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="cinecanal_us.png" group-title="Cine y Series" tvg-shift="-5",Cinecanal HD
@@ -293,14 +305,18 @@ http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?/PROFILE00-801/.ts
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
 #EXTINF:-1 tvg-logo="az_clic_mx.png" group-title="Internacional en Español",Az Clic
 http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 tvg-logo="az_corazon_mx.png" group-title="Internacional en Español",Az Corazón
+#EXTINF:-1 tvg-logo="az_corazon_mx.png" group-title="Entretenimiento",Az Corazón
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?/PROFILE00-801/.ts
-#EXTINF:-1 tvg-logo="az_corazon_mx.png" group-title="Internacional en Español",Az Corazón HD
+#EXTINF:-1 tvg-logo="az_corazon_mx.png" group-title="Entretenimiento",Az Corazón HD
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE05.m3u8?/PROFILE00-801/.ts
-#EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Internacional en Español",Az Mundo
+#EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Entretenimiento",Az Mundo
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Internacional en Español",Az Mundo HD
+#EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Entretenimiento",Az Mundo HD
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
+#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo UStream
+http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo Stream
+http://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 # ----------------------------------------------------------------------------------------------
 # CULTURA Y RELIGION
 # ----------------------------------------------------------------------------------------------
@@ -330,8 +346,8 @@ http://81.39.224.194:4022/udp/239.0.0.89:8208
 http://190.57.234.166/V4/3/1.m3u8
 #EXTINF:-1 tvg-logo="historia_es.png" group-title="Cultura y religión",Historia
 http://81.39.224.194:4022/udp/239.0.0.19:8208
-# #EXTINF:-1 tvg-logo="history_2_lam.png" group-title="Cultura y religión",H2
-# http://freedom.duki.me/LIVE/H02/H2LASD/master.m3u8
+#EXTINF:-1 tvg-logo="history_2_lam.png" group-title="Cultura y religión",H2 USA
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo="discovery_hd_theater_lam.png" group-title="Cultura y religión",Discovery Theater HD
 http://190.57.234.166/V1/5/1.m3u8
 #EXTINF:-1 tvg-logo="discovery_hd_world_lam.png" group-title="Cultura y religión",Discovery World HD
@@ -399,6 +415,8 @@ http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
 # ----------------------------------------------------------------------------------------------
 # INTERNACIONAL EN ESPAÑOL
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="latina_pe.png" group-title="Internacional en Español",Frecuencia-latina
+http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
 #EXTINF:-1 tvg-logo="canal_26_ar_hd.png" group-title="Internacional en Español",Canal 26 HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="teveo_us.png" group-title="Internacional en Español",Teveo Miami
@@ -468,6 +486,8 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 #EXTINF:-1 tvg-logo="c5n_ar.png" group-title="Noticias",C5N Noticias
 http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="az_noticias_mx.png" group-title="Noticias",Az Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
 #EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",RT Noticias
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
 #EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",RT News
@@ -614,6 +634,8 @@ http://cl.origin.grupoz.cl:1935/hipodromochile/_definst_/live/playlist.m3u8
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-logo="gol_tv_us.png" group-title="Deporte y juegos",GOL TV
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1 tvg-logo="movistar_tv_lam.png" group-title="Deporte y juegos",Movistar TV (CDO)
+http://mdstrm.com/live-stream-playlist/5730e3a8b0b728d108a0f6a8.m3u8?&dnt=true&ref=movistarchile.tv
 #EXTINF:-1 tvg-logo="claro_sports_lam.png" group-title="Deporte y juegos",Claro Sports
 http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 tvg-logo="win_sports_co.png" group-title="Deporte y juegos",Win Sports
@@ -671,6 +693,8 @@ http://81.39.224.194:4022/udp/239.0.5.2:8208
 # ----------------------------------------------------------------------------------------------
 # INTERNACIONAL OTROS IDIOMAS
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="bbc_parliament.png" group-title="Internacional",BBC Parliament
+http://80.194.110.188/hls/BBC_Parliament/BBC_Parliament.m3u8
 #EXTINF:-1 tvg-logo="rai_5.png" group-title="Internacional",Rai 5
 http://stream12.rai.it/live/smil:rai5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="rai_movie_it.png" group-title="Internacional",Rai Movie
@@ -726,4 +750,41 @@ http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv-hls6/livestr
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="ADNTV_CL.png" group-title="Radio TV Nacional",ADN Radio TV
 http://wow.cl.origin.digitalproserver.com:1935/adn/adnvivo/livestream1/playlist.m3u8
+# ----------------------------------------------------------------------------------------------
+# ADULTOS
+# ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="miami_tv_us.png" group-title="Adulto 18+", Miami TV HD
+http://live.tvplayerlatino.com/lista_remota/src3/Omy9l.m3u8
+#EXTINF:-1 tvg-logo="penthouse_tv_global.png" group-title="Adulto 18+",Penthouse TV Corea
+http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 tvg-logo="honey_kr.png" group-title="Adulto 18+",Honey Corea
+rtmp://main1sb.everyon.tv:1935/etv1sb/_definst_/pld10928
+#EXTINF:-1 tvg-logo="french_lover.png" group-title="Adulto 18+",FRENCH LOVER
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTINF:-1 tvg-logo="private_spice.png" group-title="Adulto 18+",Private Spice
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTINF:-1 tvg-logo="playboy_channel_jp.png" group-title="Adulto 18+",Playboy Asia
+rtmp://main1sb.everyon.tv:1935/etv1sb/_definst_/phd10497
+#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adulto 18+",Playboy
+http://cdn.sstream.pw/live/playboy_13t2qf3/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adulto 18+",Playboy España
+http://81.39.224.194:4022/udp/239.0.5.3:8208
+#EXTINF:-1 tvg-logo="playboyt_tv_chat.png" group-title="Adulto 18+",Playboy TV Chat
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#EXTINF:-1 tvg-logo="passie_xxx_nl.png" group-title="Adulto 18+",Passie XXX
+http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="passion_xxx.png" group-title="Adulto 18+",Passion XXX
+http://198.16.76.122:8000/170/BJDRTISRYHMI48CA
+#EXTINF:-1 tvg-logo="viki_kr.png" group-title="Adulto 18+",Viki Enjoy Premium KR
+http://edge1.everyon.tv:1935/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 tvg-logo="hustler_tv_us.png" group-title="Adulto 18+",Hustler TV
+http://cdn.sstream.pw/live/hustlertv_9c7o2m2/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="redlight_us.png" group-title="Adulto 18+",Redlight HD
+http://cdn.sstream.pw/live/hot_asn3cnv/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="venus_ar.png" group-title="Adulto 18+",Venus
+http://cdn.sstream.pw/live/venus_b9d5p71/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="russian_nights_ru.png" group-title="Adulto 18+",Russian Nights
+http://46.48.30.116:81//udp/239.255.2.107:1234
+#EXTINF:-1 tvg-logo="bsx_us.png" group-title="Adulto 18+",BSX
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
 # ----------------------------------------------------------------------------------------------
