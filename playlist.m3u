@@ -317,6 +317,8 @@ http://200.76.77.237/LIVE/H01/CANAL276/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo Stream
 http://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
+#EXTINF:-1 tvg-logo="univision_us.png" group-title="Entretenimiento",Univision
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=4&token=N2JkODdlMmYyNzliYTAxTWpBeE5pMHdPUzB5TVNBeE1nPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=4&view=4&User-Agent=Mozilla/5.0
 # ----------------------------------------------------------------------------------------------
 # CULTURA Y RELIGION
 # ----------------------------------------------------------------------------------------------
@@ -346,6 +348,8 @@ http://81.39.224.194:4022/udp/239.0.0.89:8208
 http://190.57.234.166/V4/3/1.m3u8
 #EXTINF:-1 tvg-logo="historia_es.png" group-title="Cultura y religión",Historia
 http://81.39.224.194:4022/udp/239.0.0.19:8208
+#EXTINF:-1 tvg-logo="history_2_lam.png" group-title="Cultura y religión",H2
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=14&token=Yzg5Y2EzNmU0ZDA0MzBlTWpBeE5pMHdPUzB5TVNBeE1nPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=14&view=4&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="history_2_lam.png" group-title="Cultura y religión",H2 USA
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo="discovery_hd_theater_lam.png" group-title="Cultura y religión",Discovery Theater HD
