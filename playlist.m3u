@@ -20,8 +20,6 @@ http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/playlist.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="chv_cl.png" group-title="Nacional",CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:-1 tvg-logo="chv_cl.png" group-title="Nacional",CHV HD Janus
-http://chv-ply.janus.cl/playlist/stream.m3u8?s=hd
 #EXTINF:-1 tvg-logo="mega_cl.png" group-title="Nacional",MEGA HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="la_red_cl_hd.png" group-title="Nacional",La Red HD
@@ -125,16 +123,14 @@ http://77.120.118.233:8000/4
 # ----------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="hbo_signature_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Signature
 http://190.57.234.166/V4/7/1.m3u8
-#EXTINF:-1 tvg-logo="max_prime_este.png" group-title="Cine y Series" tvg-shift="-5",MAX Prime
-http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=9&token=YTExODgwNjY5NGM5ZDliMTBNakF4Tmkwd09TMHlNQ0F4TVE9PQ==|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=9&view=4&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="hbo2_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO2
+#EXTINF:-1 tvg-logo="hbo2_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO 2
 http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=10&token=OTZhMGNjMmY5MzM2NWZhZE1qQXhOaTB3T1MweU1DQXhNUT09|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=10&view=4&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="hbo_plus_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Plus Este
+#EXTINF:-1 tvg-logo="hbo_plus_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Plus
 http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=11&token=M2U5ODQxMGM0NWVhTWpBeE5pMHdPUzB5TUNBeE1RPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=11&view=4&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="hbo_plus_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Plus Oeste
-http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=12&token=NGU1NTEzOWUwMTlhTWpBeE5pMHdPUzB5TUNBeE1RPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=12&view=4&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="hbo_family_lam.png" group-title="Cine y Series" tvg-shift="-5",HBO Family
 http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=13&token=ODk2NWY3NjYzMmQ3NjcyZU1qQXhOaTB3T1MweU1TQXhNZz09|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=13&view=4&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="max_prime_este.png" group-title="Cine y Series" tvg-shift="-5",MAX Prime
+http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=9&token=YTExODgwNjY5NGM5ZDliMTBNakF4Tmkwd09TMHlNQ0F4TVE9PQ==|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=9&view=4&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="cinecanal_us.png" group-title="Cine y Series" tvg-shift="-5",Cinecanal
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="cinecanal_us.png" group-title="Cine y Series" tvg-shift="-5",Cinecanal HD
@@ -259,9 +255,9 @@ http://81.39.224.194:4022/udp/239.0.0.77:8208
 #EXTINF:-1 tvg-logo="totalplay_mx.png" group-title="Entretenimiento",TotalPlay
 http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8?/PROFILE00-801/.ts
 #EXTINF:-1 tvg-logo="nova_es.png" group-title="Entretenimiento",Nova España
-http://81.39.224.194:4022/udp/239.0.0.106:8208
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:-1 tvg-logo="neox_es.png" group-title="Infantil y Anime",Neox España
-http://81.39.224.194:4022/udp/239.0.0.107:8208
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="mundo_fox_lam.png" group-title="Entretenimiento",Mundo Fox
 http://190.57.234.166/V0/3/1.m3u8
 #EXTINF:-1 tvg-logo="fox_life_global.png" group-title="Entretenimiento",FOX Life
@@ -314,9 +310,11 @@ http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Entretenimiento",Az Mundo HD
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo UStream
-http://iphone-streaming.ustream.tv/uhls/22690280/streams/live/iphone/playlist.m3u8
+http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo Stream
 http://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
+#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo SSH101
+http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8
 #EXTINF:-1 tvg-logo="univision_us.png" group-title="Entretenimiento",Univision
 http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=4&token=N2JkODdlMmYyNzliYTAxTWpBeE5pMHdPUzB5TVNBeE1nPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=4&view=4&User-Agent=Mozilla/5.0
 # ----------------------------------------------------------------------------------------------
