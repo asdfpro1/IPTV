@@ -309,11 +309,7 @@ http://200.76.77.237/LIVE/H01/CANAL45/PROFILE05.m3u8?/PROFILE00-801/.ts
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?/PROFILE00-801/JOKERTV.ts
 #EXTINF:-1 tvg-logo="az_mundo_mx.png" group-title="Entretenimiento",Az Mundo HD
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE05.m3u8?/PROFILE00-801/JOKERTV.ts
-#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo UStream
-http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo Stream
-http://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
-#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo SSH101
+#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Entretenimiento",Telemundo
 http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8
 #EXTINF:-1 tvg-logo="univision_us.png" group-title="Entretenimiento",Univision
 http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=4&token=N2JkODdlMmYyNzliYTAxTWpBeE5pMHdPUzB5TVNBeE1nPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=4&view=4&User-Agent=Mozilla/5.0
