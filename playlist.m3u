@@ -71,7 +71,7 @@ http://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch/playlist.m3u8
 # ----------------------------------------------------------------------------------------------
 # INFANTIL Y ANIME
 # ----------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="tateti_au.png" group-title="Infantil y Anime",TA TE TI
+#EXTINF:-1 tvg-logo="tateti_ar.png" group-title="Infantil y Anime",TA TE TI
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1 tvg-logo="raxa_anime_lam.png" group-title="Infantil y Anime",Raxa Anime Latino
 http://video7.stream.mx:1935/raxatv/raxatv/master.m3u8
