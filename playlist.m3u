@@ -276,14 +276,20 @@ http://78.56.221.9:7059/comedy
 # ----------------------------------------------------------------------------------------------
 # Estilo de vida
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="fashiontv_us.png" group-title="Estilo de vida",Fashion TV HD
+http://stream-02.vty.dailymotion.com/48/dm/1/x3m6nld/live.isml/live.m3u8?e=1475089703&st=CycwIJvm3v0dKlO_S6JO1Q
+#EXTINF:-1 tvg-logo="fashion_one_uk.png" group-title="Estilo de vida",Fashion One HD
+http://198.16.76.122:8000/373/TU3YLBSADUSM4IE5
+#EXTINF:-1 tvg-logo=".png" group-title="Estilo de vida",World Fashion
+http://198.16.76.122:8000/257/TU3YLBSADUSM4IE5
+#EXTINF:-1 tvg-logo="id_fashion_ru.png" group-title="Estilo de vida",ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1 tvg-logo="life_design_co_hd.png" group-title="Estilo de vida",Life Design HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="sun_channel_co_hd.png" group-title="Estilo de vida",SUN Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="fashiontv_us.png" group-title="Estilo de vida",Fashion TV
-http://live.tvplayerlatino.com/lista_remota/src1/nHCx8.m3u8
-#EXTINF:-1 tvg-logo="id_fashion_ru.png" group-title="Estilo de vida",ID Fashion HD
-http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1 tvg-logo="trendy_channel_co.png" group-title="Música y conciertos",Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 # ----------------------------------------------------------------------------------------------
 # CULTURA
 # ----------------------------------------------------------------------------------------------
@@ -552,8 +558,6 @@ http://81.40.240.186:4022/udp/239.0.0.75:8208
 http://190.57.234.166/V0/2/1.m3u8
 #EXTINF:-1 tvg-logo="mimusica_hd_tv_us.png" group-title="Música y conciertos",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="trendy_channel_co.png" group-title="Música y conciertos",Trendy Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="cantinazo_tv_co.png" group-title="Música y conciertos",Cantinazo TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="teleritmo_mx.png" group-title="Música y conciertos",Teleritmo
