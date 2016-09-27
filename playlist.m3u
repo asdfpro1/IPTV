@@ -276,7 +276,7 @@ http://78.56.221.9:7059/comedy
 # ----------------------------------------------------------------------------------------------
 # Estilo de vida
 # ----------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="fashiontv_us.png" group-title="Estilo de vida",Fashion TV HD
+#EXTINF:-1 tvg-logo="fashiontv_fr.png" group-title="Estilo de vida",Fashion TV HD
 http://stream-02.vty.dailymotion.com/48/dm/1/x3m6nld/live.isml/live.m3u8?e=1475089703&st=CycwIJvm3v0dKlO_S6JO1Q
 #EXTINF:-1 tvg-logo="fashion_one_uk.png" group-title="Estilo de vida",Fashion One HD
 http://198.16.76.122:8000/373/TU3YLBSADUSM4IE5
