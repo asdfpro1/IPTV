@@ -280,7 +280,7 @@ http://78.56.221.9:7059/comedy
 http://stream-02.vty.dailymotion.com/48/dm/1/x3m6nld/live.isml/live.m3u8?e=1475089703&st=CycwIJvm3v0dKlO_S6JO1Q
 #EXTINF:-1 tvg-logo="fashion_one_uk.png" group-title="Estilo de vida",Fashion One HD
 http://198.16.76.122:8000/373/TU3YLBSADUSM4IE5
-#EXTINF:-1 tvg-logo=".png" group-title="Estilo de vida",World Fashion
+#EXTINF:-1 tvg-logo="world_fashion_ru.png" group-title="Estilo de vida",World Fashion
 http://198.16.76.122:8000/257/TU3YLBSADUSM4IE5
 #EXTINF:-1 tvg-logo="id_fashion_ru.png" group-title="Estilo de vida",ID Fashion HD
 http://95.67.8.22/hls/idfashion/index.m3u8
