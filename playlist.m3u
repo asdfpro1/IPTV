@@ -288,7 +288,7 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="sun_channel_co_hd.png" group-title="Estilo de vida",SUN Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="trendy_channel_co.png" group-title="Música y conciertos",Trendy Channel
+#EXTINF:-1 tvg-logo="trendy_channel_co.png" group-title="Estilo de vida",Trendy Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 # ----------------------------------------------------------------------------------------------
 # CULTURA
