@@ -224,6 +224,22 @@ http://81.40.240.186:4022/udp/239.0.3.32:8208
 http://81.40.240.186:4022/udp/239.0.5.4:8208
 #EXTINF:-1 tvg-logo="movistar_series_xtra_es.png" group-title="Cine y Series",Movistar Series Xtra
 http://81.40.240.186:4022/udp/239.0.3.20:8208
+#EXTINF:-1 tvg-logo="sky_uk_cinema_action_adventure.png" group-title="Cine y Series",Sky Cinema Action & Adventure UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1612/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_comedy.png" group-title="Cine y Series",Sky Cinema Comedy UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1613/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_crime_thriller.png" group-title="Cine y Series",Sky Cinema Crime & Thriller UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1614/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_disney.png" group-title="Cine y Series",Sky Cinema Disney UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1615/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_family.png" group-title="Cine y Series",Sky Cinema Family UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1616/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_premiere.png" group-title="Cine y Series",Sky Cinema Premiere UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1617/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_select.png" group-title="Cine y Series",Sky Cinema Select UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1618/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="sky_uk_cinema_hits.png" group-title="Cine y Series",Sky Cinema Hits UK
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1619/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="showtime_us.png" group-title="Cine y Series",Showtime
 http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="bigpond_movies_au.png" group-title="Cine y Series",Bigpond Movies
@@ -347,6 +363,10 @@ http://81.40.240.186:4022/udp/239.0.0.103:8208
 http://81.40.240.186:4022/udp/239.0.0.89:8208
 #EXTINF:-1 tvg-logo="historia_es.png" group-title="Cultura y tecnoligia",Historia
 http://81.40.240.186:4022/udp/239.0.0.19:8208
+#EXTINF:-1 tvg-logo="food_network_global.png" group-title="Cultura y tecnoligia",Food Network UK
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/529/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="food_network_global.png" group-title="Cultura y tecnoligia",Food Network+1
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/575/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="insight_global.png" group-title="Cultura y tecnoligia",Insight HD
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 #EXTINF:-1 tvg-logo="nasa_tv_us.png" group-title="Cultura y tecnoligia",NASA TV HD
@@ -459,22 +479,26 @@ http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="az_noticias_mx.png" group-title="Noticias",Az Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
-#EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",RT Noticias
+#EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",Russia Today en Español
 http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
-#EXTINF:-1 tvg-logo="euronews.png" group-title="Noticias",Euronews Español
+#EXTINF:-1 tvg-logo="euronews.png" group-title="Noticias",Euronews en Español
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-logo="tve_canal_24horas.png" group-title="Noticias",TVE 24 Horas
 http://190.57.234.166/V1/4/1.m3u8
 #EXTINF:-1 tvg-logo="todo_noticias.png" group-title="Noticias",Todo Noticias
 rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 tvg-logo="cb24_noticias_centroamerica.png" group-title="Noticias",CB24 Noticias Centroamérica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="360_tv_ar.png" group-title="Noticias",360 TV
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1 tvg-logo="bbc_world_news_uk.png" group-title="Noticias",BBC World News
 http://hls.svc.moyo.tv/hls/CH_BBCWORLDNEWS/bw1758000/variant.m3u8?version=1
 #EXTINF:-1 tvg-logo="nbc_news_us.png" group-title="Noticias",NBC Live News Stream
 http://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
-#EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",RT News
+#EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",Russia Today News
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+#EXTINF:-1 tvg-logo="rt_ru.png" group-title="Noticias",Russia Today UK
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/537/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="trt_world_tr.png" group-title="Noticias",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="al_jazeera_english.png" group-title="Noticias",Al Jazeera HD
@@ -655,6 +679,8 @@ http://81.40.240.186:4022/udp/239.0.0.210:8208
 http://81.40.240.186:4022/udp/239.0.3.38:8208
 #EXTINF:-1 tvg-logo="movistar_golf_es.png" group-title="Deporte y juegos",Movistar Golf España
 http://81.40.240.186:4022/udp/239.0.5.2:8208
+#EXTINF:-1 tvg-logo="ufc_next_uk.png" group-title="Deporte y juegos",UFC Next
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/544/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="fightbox_uk_hd.png" group-title="Deporte y juegos",FightBox HD
 http://198.16.76.122:8000/526/8KBGVMZEO8TCSEZX
 #EXTINF:-1 tvg-logo="sky_uk_sports_1.png" group-title="Deporte y juegos",Sky Sports 1
@@ -663,6 +689,12 @@ http://78.56.221.9:7059/skysp1
 http://78.56.221.9:7059/skysp2
 #EXTINF:-1 tvg-logo="sky_uk_sports_3.png" group-title="Deporte y juegos",Sky Sports 3
 http://78.56.221.9:7059/skysp3
+#EXTINF:-1 tvg-logo="sky_sport_f1_hd.png" group-title="Deporte y juegos",Sky Sports F1 (UK)
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1609/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="bt_sport_1_hd.png" group-title="Deporte y juegos",BT Sport 1
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1610/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="bt_sport_2_hd.png" group-title="Deporte y juegos",BT Sport 2
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1611/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="super_tennis.png" group-title="Deporte y juegos",Supertennis HD
 http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:-1 tvg-logo="versus_usa_hd.png" group-title="Deporte y juegos",NBA Versus HD
@@ -682,7 +714,9 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 #EXTINF:-1 tvg-logo="nbc_golf_us.png" group-title="Deporte y juegos",NBC Golf HD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="world_wrestling_entertainment.png" group-title="Deporte y juegos",WWE
-rtmp://skystreams.info/live playpath=wwe swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/wwe247.php live=true timeout=20
+http://premium.exabytetv.info/xtc/101010011011100001010001100111100101-ExabyteTV/1542/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="world_wrestling_entertainment.png" group-title="Deporte y juegos",WWE
+http://premium.exabytetv.info/gc/101010011011100001010001100111100101-ExabyteTV/1600/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="dubai_sports_ae.png" group-title="Deporte y juegos",Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="supersport_al.png" group-title="Deporte y juegos",Supersport 1
@@ -696,6 +730,23 @@ http://81.7.13.162/hls/ss4/index.m3u8
 # ----------------------------------------------------------------------------------------------
 # INTERNACIONAL OTROS IDIOMAS
 # ----------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="itv_uk.png" group-title="Internacional",ITV
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/527/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_plus1.png" group-title="Internacional",ITV+1
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/571/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_2.png" group-title="Internacional",ITV2
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/536/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_2_plus1.png" group-title="Internacional",ITV2+1
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/572/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_3.png" group-title="Internacional",ITV3
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/533/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_3_plus1.png" group-title="Internacional",ITV3+1
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/573/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="itv_uk_4.png" group-title="Internacional",ITV4
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/538/exabytetv.m3u8
+itv_uk_4_plus1
+#EXTINF:-1 tvg-logo=".png" group-title="Internacional",ITV4+1
+http://premium.exabytetv.info/tokener/101010011011100001010001100111100101-ExabyteTV/574/exabytetv.m3u8
 #EXTINF:-1 tvg-logo="bbc_parliament.png" group-title="Internacional",BBC Parliament
 http://80.194.110.188/hls/BBC_Parliament/BBC_Parliament.m3u8
 #EXTINF:-1 tvg-logo="rai_5.png" group-title="Internacional",Rai 5
