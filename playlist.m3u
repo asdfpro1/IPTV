@@ -151,7 +151,7 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL424/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL201/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="fx_us.png" group-title="Cine y películas",FX
 http://latino-webtv.ml:8880/tpmariocs/CANAL258/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="cinecanal_us.png" group-title="Cine y películas",Cinecanal
+#EXTINF:-1 tvg-logo="cinecanal_lam.png" group-title="Cine y películas",Cinecanal
 http://latino-webtv.ml:8880/tpmariocs/CANAL430/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="golden_edge_mx.png" group-title="Cine y películas",Golden Edge
 http://latino-webtv.ml:8880/tpmariocs/CANAL484/PROFILE03.m3u8
