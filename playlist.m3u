@@ -119,9 +119,9 @@ http://87.81.142.20:9981/stream/channelid/224893116?ticket=4F112BB89883566C608C9
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-logo="rai_gulp.png" group-title="Infantil y jóvenes",Rai Gulp IT
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-logo="momo_kids.png" group-title="Infantil y jóvenes",MOMO JP
+#EXTINF:-1 tvg-logo="momo_kids.png" group-title="Infantil y jóvenes",MOMO TW
 http://saka24.fansmestar.com/ch024/playlist.m3u8
-#EXTINF:-1 tvg-logo="animax_jp.png" group-title="Infantil y jóvenes",Animax JP
+#EXTINF:-1 tvg-logo="animax_jp.png" group-title="Infantil y jóvenes",Animax TW
 http://saka24.fansmestar.com/ch034/playlist.m3u8
 
 # ::::: CINE Y PELÍCULAS
