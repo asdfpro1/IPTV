@@ -16,7 +16,7 @@
 #EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta",TVN HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
 #EXTINF:-1 tvg-logo="ucv_cl_hd.png" group-title="Televisión abierta",UCV HD
-http://movilstream.digitalproserver.com/ucvtv//ucvtv.smil/playlist.m3u8
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="canal13_cl_hd.png" group-title="Televisión abierta",Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="chv_cl.png" group-title="Televisión abierta",CHV HD
@@ -28,6 +28,7 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-ag
 #EXTINF:-1 tvg-logo="niu_cl.png" group-title="Televisión abierta",NIU HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="ucv_gran_valparaiso_cl.png" group-title="Televisión abierta",UCV Gran Valparaíso HD
+http://unlimited5-cl.
 http://movilstream.digitalproserver.com:1935/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",TVN señal de prueba
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
@@ -331,11 +332,8 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL109/PROFILE03.m3u8
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Series y entretenimiento",Telemundo
 http://stream.ssh101.com:1935/live/anahix2/playlist.m3u8
-#EXTINF:-1 tvg-logo="telemundo_este.png" group-title="Series y entretenimiento",Telemundo
-http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="univision_us.png" group-title="Series y entretenimiento",Univision
-http://stream.ssh101.com:1935/live/anahix1/playlist.m3u8
-#http://iptvcanales.com/hls/premium/channel_xw.m3u8?canal=4&token=N2JkODdlMmYyNzliYTAxTWpBeE5pMHdPUzB5TVNBeE1nPT0=|Referer=http://iptvcanales.com/xw/premium.php?n_ccanal=4&view=4&User-Agent=Mozilla/5.0
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="wapa_us.png" group-title="Series y entretenimiento",WAPA
 http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19YAK7oeDi5TrshC8aGJaI7a7H3cvmEf01wdweOXo3l%2B7FmOv%2FG4%2F%2B3b8ZiLR3lnwx0Z5my0GJBcA%3D%3D|Referer=http://latino-webtv.com/embed/canales.php?ch=83&name=wapa
 #EXTINF:-1 tvg-logo="antena3_series_es.png" group-title="Series y entretenimiento",ATRESERIES España
@@ -374,7 +372,7 @@ http://87.81.142.20:9981/stream/channelid/1793938540?ticket=A64FFB2AB3C48A99B06D
 http://87.81.142.20:9981/stream/channelid/1134251763?ticket=BC1D281339F5E3EB126BEDB0380AEFF052B3B315&profile=matroska
 #EXTINF:-1 tvg-logo="channel_5_uk.png" group-title="Series y entretenimiento",Channel 5 HD
 http://87.81.142.20:9981/stream/channelid/974539584?ticket=6A895559E8BD5938944CA49CF86DDBF7085079B2&profile=matroska
-#EXTINF:-1 tvg-logo="sky_uk_1.png" group-title="Series y entretenimiento",Sky 1
+#EXTINF:-1 tvg-logo="sky_1_uk.png" group-title="Series y entretenimiento",Sky 1
 http://87.81.142.20:9981/stream/channelid/902994571?ticket=CC6007CFC4804AE3DFA0A0185C313579FCE0D24B&profile=matroska
 #EXTINF:-1 tvg-logo="sky_2_uk.png" group-title="Series y entretenimiento",Sky 2
 http://87.81.142.20:9981/stream/channelid/806295919?ticket=12C2150C16A9F7241AF77EDC827DF291B7541688&profile=matroska
@@ -450,11 +448,11 @@ http://87.81.142.20:9981/stream/channelid/30559884?ticket=76497EC2C5320A17EED170
 #EXTINF:-1 tvg-logo="eden_uk.png" group-title="Estilo de vida y ocio",Eden
 http://87.81.142.20:9981/stream/channelid/1741768309?ticket=DFE67B6044DFA09D61ADF7DDC334BE4C88F1AEE0&profile=matroska
 #EXTINF:-1 tvg-logo="fashiontv_fr.png" group-title="Estilo de vida y ocio",Fashion TV HD
-http://stream-02.vty.dailymotion.com/48/dm/1/x3m6nld/live.isml/live.m3u8?e=1475089703&st=CycwIJvm3v0dKlO_S6JO1Q
+http://81.30.223.164:8080/play/a02v
 #EXTINF:-1 tvg-logo="world_fashion_ru.png" group-title="Estilo de vida y ocio",World Fashion
 http://198.16.76.122:8000/257/TU3YLBSADUSM4IE5
 #EXTINF:-1 tvg-logo="world_fashion_ru.png" group-title="Estilo de vida y ocio",World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/track_1/playlist.m3u8
+http://81.30.223.164:8080/play/a02i
 #EXTINF:-1 tvg-logo="id_fashion_ru.png" group-title="Estilo de vida y ocio",ID Fashion HD
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1 tvg-logo="life_design_co_hd.png" group-title="Estilo de vida y ocio",Life Design HD
@@ -622,7 +620,7 @@ http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist
 #EXTINF:-1 tvg-logo="uvct_mx.png" group-title="En Español",Una voz con todos
 http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
 #EXTINF:-1 tvg-logo="efekto_tv_mx.png" group-title="En Español",Efekto TV HD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
 #EXTINF:-1 tvg-logo="proyecto40_mx.png" group-title="En Español",Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 #EXTINF:-1 tvg-logo="canal_2_mx.png" group-title="En Español",Canal 2 Obregón
@@ -1046,6 +1044,8 @@ http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 http://wow.cl.origin.digitalproserver.com:1935/adn/adnvivo/livestream1/playlist.m3u8
 
 # ::::: ADULTOS
+#EXTINF:-1 tvg-logo="passie_xxx_nl.png" group-title="Adultos",Passie XXX
+http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="miami_tv_us.png" group-title="Adultos", Miami TV HD
 http://live.tvplayerlatino.com/lista_remota/src3/Omy9l.m3u8
 #EXTINF:-1 tvg-logo="penthouse_tv_global.png" group-title="Adultos",Penthouse TV Corea
@@ -1058,18 +1058,14 @@ rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:-1 tvg-logo="playboy_channel_jp.png" group-title="Adultos",Playboy Asia
 rtmp://main1sb.everyon.tv:1935/etv1sb/_definst_/phd10497
-#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adultos",Playboy
-http://cdn.sstream.pw/live/playboy_13t2qf3/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adultos",Playboy España
-http://81.40.240.186:4022/udp/239.0.5.3:8208
 #EXTINF:-1 tvg-logo="playboyt_tv_chat.png" group-title="Adultos",Playboy TV Chat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-#EXTINF:-1 tvg-logo="passie_xxx_nl.png" group-title="Adultos",Passie XXX
-http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="passion_xxx.png" group-title="Adultos",Passion XXX
-http://198.16.76.122:8000/170/BJDRTISRYHMI48CA
 #EXTINF:-1 tvg-logo="viki_kr.png" group-title="Adultos",Viki Enjoy Premium KR
 http://edge1.everyon.tv:1935/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adultos",Playboy España
+http://81.40.240.186:4022/udp/239.0.5.3:8208
+#EXTINF:-1 tvg-logo="playboy_tv_us.png" group-title="Adultos",Playboy
+http://cdn.sstream.pw/live/playboy_13t2qf3/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="hustler_tv_us.png" group-title="Adultos",Hustler TV
 http://cdn.sstream.pw/live/hustlertv_9c7o2m2/playlist.m3u8|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="redlight_us.png" group-title="Adultos",Redlight HD
@@ -1080,18 +1076,20 @@ http://latino-webtv.ml:8880/venus/playlist.m3u8
 http://46.48.30.116:81//udp/239.255.2.107:1234
 #EXTINF:-1 tvg-logo="bsx_us.png" group-title="Adultos",BSX
 rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
+#EXTINF:-1 tvg-logo="passion_xxx.png" group-title="Adultos",Passion XXX
+http://198.16.76.122:8000/170/BJDRTISRYHMI48CA
 #EXTINF:-1 tvg-logo="satisfaction_it.png" group-title="Adultos",Satisfaction
-http://198.16.76.122:8000/164/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/164/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="evil_angel_tv_it.png" group-title="Adultos",Evil Angel
-http://198.16.76.122:8000/165/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/165/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="exotica_tv.png" group-title="Adultos",Exotica TV
-http://198.16.76.122:8000/166/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/166/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="sct_us.png" group-title="Adultos",SCT
-http://198.16.76.122:8000/167/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/167/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="centoxcento_tv.png" group-title="Adultos",Cento x Cento TV
-http://198.16.76.122:8000/168/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/168/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="sexto_senso_it.png" group-title="Adultos",Sexto Senso
-http://198.16.76.122:8000/169/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/169/JRRUCKFSHYCCOFTX
 #EXTINF:-1 tvg-logo="pinko_tv.png" group-title="Adultos",PINKO TV
-http://198.16.76.122:8000/172/7YDTKAF4NKHF3O0L
+http://198.16.76.122:8000/172/JRRUCKFSHYCCOFTX
 # ----------------------------------------------------------------------------------------------
