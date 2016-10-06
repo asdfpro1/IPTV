@@ -25,10 +25,19 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 tvg-logo="la_red_cl_hd.png" group-title="Televisión abierta",La Red HD
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta",TVN HD
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/449.ts
+#EXTINF:-1 tvg-logo="canal13_cl_hd.png" group-title="Televisión abierta",Canal 13 HD
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/446.ts
+#EXTINF:-1 tvg-logo="chv_cl.png" group-title="Televisión abierta",CHV HD
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/447.ts
+#EXTINF:-1 tvg-logo="mega_cl.png" group-title="Televisión abierta",MEGA HD
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/596.ts
+#EXTINF:-1 tvg-logo="la_red_cl_hd.png" group-title="Televisión abierta",La Red HD
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/412.ts
 #EXTINF:-1 tvg-logo="niu_cl.png" group-title="Televisión abierta",NIU HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="ucv_gran_valparaiso_cl.png" group-title="Televisión abierta",UCV Gran Valparaíso HD
-http://unlimited5-cl.
 http://movilstream.digitalproserver.com:1935/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",TVN señal de prueba
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
@@ -38,8 +47,6 @@ http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="telecanal_cl.png" group-title="Televisión abierta",Telecanal Santa Cruz
 http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="telecanal_cl.png" group-title="Televisión abierta",Telecanal Curicó
-http://movilstream.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="contivision_cl.png" group-title="Televisión abierta",Contivision
 http://movilstream.digitalproserver.com/contivisionhd/contivisionhdvivo/contivision.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="tvu_cl.png" group-title="Televisión abierta",TVU HD
@@ -84,6 +91,8 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL324/PROFILE03.m3u8
 http://190.57.234.166/V1/2/1.m3u8
 #EXTINF:-1 tvg-logo="nick_2_us.png" group-title="Infantil y jóvenes",nick 2 HD
 http://190.57.234.166/V3/3/1.m3u8
+#EXTINF:-1 tvg-logo="nick_2_us.png" group-title="Infantil y jóvenes",nick
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/815.ts
 #EXTINF:-1 tvg-logo="nick_jr_us.png" group-title="Infantil y jóvenes",Nick Jr
 http://190.57.234.166/V1/8/1.m3u8
 #EXTINF:-1 tvg-logo="nick_toons_lam.png" group-title="Infantil y jóvenes",Nick Toons
@@ -179,7 +188,8 @@ http://latino-webtv.ml:8880/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="tnt_lam.png" group-title="Cine y películas",TNT HD
 http://latino-webtv.ml:8880/tpmariocs/CANAL435/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="tnt_series_lam.png" group-title="Cine y películas",TNT Series
-http://latino-webtv.ml:8880/tpmariocs/CANAL266/PROFILE03.m3u8
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/813.ts
+#http://latino-webtv.ml:8880/tpmariocs/CANAL266/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="universal_channel_global.png" group-title="Cine y películas",Universal Channel
 http://latino-webtv.ml:8880/tpmariocs/CANAL207/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="cinemax_lam.png" group-title="Cine y películas",Cinemax
@@ -312,6 +322,8 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://190.57.234.166/V0/3/1.m3u8
 #EXTINF:-1 tvg-logo="fox_life_global.png" group-title="Series y entretenimiento",FOX Life
 http://latino-webtv.ml:8880/tpmariocs/CANAL271/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="tlc_lam.png" group-title="Series y entretenimiento",TLC
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/812.ts
 #EXTINF:-1 tvg-logo="e_global_us.png" group-title="Series y entretenimiento",E! Entertainment Television
 http://latino-webtv.ml:8880/tpmariocs/CANAL255/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="distrito_comedia_mx.png" group-title="Series y entretenimiento",Distrito Comedia
@@ -669,6 +681,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://81.40.240.186:4022/udp/239.0.0.91:8208
 
 # ::::: NOTICIAS Y ACTUALIDAD
+#EXTINF:-1 tvg-logo="cnn_cl.png" group-title="Noticias y actualidad",CNN Chile
+http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/400.ts
 #EXTINF:-1 tvg-logo="t13_cl.png" group-title="Noticias y actualidad",Tele13
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 #EXTINF:-1 tvg-logo="c5n_ar.png" group-title="Noticias y actualidad",C5N Noticias
