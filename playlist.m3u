@@ -29,6 +29,10 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-ag
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="ucv_gran_valparaiso_cl.png" group-title="Televisión abierta",UCV Gran Valparaíso HD
 http://movilstream.digitalproserver.com:1935/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="cnn_cl.png" group-title="Televisión abierta",CNN Chile
+http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="t13_cl.png" group-title="Televisión abierta",Tele13
+http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 #EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",TVN señal de prueba
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 tvg-logo="liv_tv_cl.png" group-title="Televisión abierta",LIV TV
@@ -671,10 +675,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://80.26.29.70:4022/udp/239.0.0.91:8208
 
 # ::::: NOTICIAS Y ACTUALIDAD
-#EXTINF:-1 tvg-logo="cnn_cl.png" group-title="Noticias y actualidad",CNN Chile
-http://62.210.107.58:8000/live/smartv_iptv_latino_total/67834589/400.ts
-#EXTINF:-1 tvg-logo="t13_cl.png" group-title="Noticias y actualidad",Tele13
-http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
 #EXTINF:-1 tvg-logo="c5n_ar.png" group-title="Noticias y actualidad",C5N Noticias
 http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="az_noticias_mx.png" group-title="Noticias y actualidad",Az Noticias
