@@ -29,11 +29,9 @@ http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-ag
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="ucv_gran_valparaiso_cl.png" group-title="Televisión abierta",UCV Gran Valparaíso HD
 http://movilstream.digitalproserver.com:1935/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="cnn_cl.png" group-title="Televisión abierta",CNN Chile
-http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="t13_cl.png" group-title="Televisión abierta",Tele13
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
-#EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",TVN señal de prueba
+#EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",24 Horas
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 tvg-logo="liv_tv_cl.png" group-title="Televisión abierta",Atacama TV
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
@@ -67,6 +65,27 @@ rtsp://movilstream.digitalproserver.com/holvoet/holvoetvivo/livestream3
 http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="c21_chillan_cl.png" group-title="Televisión abierta",Canal 21 Chillán
 http://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Canal Carnaval HD
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Duna TV (89.7 FM)
+http://unlimited6-cl.digitalproserver.com/dunatv/dunatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Giro Visual HD (El Quisco)
+http://wow2.cl.digitalproserver.com/girovisual/girovisualvivo/girovisual.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Sexta Vision (Rancagua)
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Umag TV (Punta Arenas)
+rtmp://edge1.cl.grupoz.cl/itser4/tser4.sdp
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",, Canal 2 (U.A. Temuco)
+http://iphone-streaming.ustream.tv/uhls/18196538/streams/live/iphone/playlist.m3u8|User-Agent=iPhone
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",Inet TV (Osorno)
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",TV Centro (Talca)
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",VTV Aconcagua HD
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",VTV Viña del Mar HD
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
 
 # ::::: INFANTIL Y JOVENES
 #EXTINF:-1 tvg-logo="raxa_anime_lam.png" group-title="Infantil y jóvenes",Raxa Anime Latino
@@ -209,6 +228,8 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 # ::::: ECONOMÍA Y POLÍTICA
 #EXTINF:-1 tvg-logo="cdtv_cl.png" group-title="Economía y política",Cámara de Diputados de Chile
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="t_senado_cl.png" group-title="Economía y política",TV Senado HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 #EXTINF:-1 tvg-logo="bloomberg_tv_us.png" group-title="Economía y política",Bloomberg USA
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo="bloomberg_tv_us.png" group-title="Economía y política",Bloomberg Europe
@@ -217,6 +238,8 @@ http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 
 # ::::: MÚSICA Y DANZA
+#EXTINF:-1 tvg-logo="contivision_cl.png" group-title="Música y danza",Contivision Musica HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="mimusica_hd_tv_us.png" group-title="Música y danza",MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="cantinazo_tv_co.png" group-title="Música y danza",Cantinazo TV
@@ -322,6 +345,10 @@ http://live.t13.cdnz.cl/t13radio/desktop.m3u8
 http://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="FMHotTV_CL.png" group-title="Radio TV Televisión abierta",FM Hot Radio TV
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Radio TV Televisión abierta",Radio Carolina TV (99.3 FM)
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="Radio TV Televisión abierta",Patagonia Radio TV
+http://v1.streaminglatinoamerica.com:1935/patagoniatv/patagoniatv/playlist.m3u8?DVR
 
 # ::::: ADULTOS
 #EXTINF:-1 tvg-logo="penthouse_tv_global.png" group-title="Adultos",Penthouse TV Corea
