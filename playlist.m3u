@@ -31,6 +31,10 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
 http://movilstream.digitalproserver.com:1935/ucvtv2/ucvtv2vivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="t13_cl.png" group-title="Televisión abierta",Tele13
 http://cdn.ztreaming.com/t13vivo3/t13vivo3-1250.m3u8
+#EXTINF:-1, tvg-logo="cnn_cl.png" group-title="Televisión abierta",CNN Chile HD
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="cnn_cl.png" group-title="Televisión abierta",CNN Chile HD (US)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="tvn_cl.png" group-title="Televisión abierta",24 Horas
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 tvg-logo="liv_tv_cl.png" group-title="Televisión abierta",Atacama TV
