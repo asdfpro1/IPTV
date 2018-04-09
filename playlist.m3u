@@ -15,6 +15,18 @@
 # ::::: TELEVISIÓN ABIERTA
 #EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta",TVN HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta", 24 Play HD
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta", TVN de Culto
+http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta", TVN Musica HD
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:-1 tvg-logo="tvn_cl_hd.png" group-title="Televisión abierta", TVN Kids
+http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1, tvg-logo="Hqlqsn3.png" group-title="Canales Chilenos", Ahora Noticias | HD
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 #EXTINF:-1 tvg-logo="ucv_cl_hd.png" group-title="Televisión abierta",UCV HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="canal13_cl_hd.png" group-title="Televisión abierta",Canal 13 HD
@@ -90,6 +102,27 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo=".png" group-title="Televisión abierta",VTV Viña del Mar HD
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
+# ::::: CABLE
+#EXTINF:-1, tvg-logo="ce4iQOo.png" group-title="Canales de Cable", HBO | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="rQkBhpa.png" group-title="Canales de Cable", HBO Plus | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="ia7aJbs.png" group-title="Canales de Cable", TNT | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="KUlzybj.png" group-title="Canales de Cable", History | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="hHtsOj4.png" group-title="Canales de Cable", History 2 | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="GzXooTi.png" group-title="Canales de Cable", Discovery Turbo | SD
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="hHtsOj4.png" group-title="Canales de Cable", History 2 | UK | HD
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1, tvg-logo="GzXooTi.png" group-title="Canales de Cable", Discovery Turbo | UK | SD
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1, tvg-logo="0Pa2wdM.png" group-title="Canales de Cable", Discovery Shed | UK | SD
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_shed/index.m3u8
+#EXTINF:-1, tvg-logo="tKSiwoF.png" group-title="Canales de Cable", TCM | UK | FHD
+http://wowza2.mysoltv.com:1992/UK_ENG_tcm/index.m3u8
 
 # ::::: INFANTIL Y JOVENES
 #EXTINF:-1 tvg-logo="raxa_anime_lam.png" group-title="Infantil y jóvenes",Raxa Anime Latino
